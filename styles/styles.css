@@ -1,0 +1,11 @@
+.products-list, .cart-container .list-group {
+  padding-top: 24px;
+}
+
+.cart-container .list-group h6 {
+  margin-bottom: 0;
+}
+
+.products-list > div {
+  margin-bottom: 24px;
+}
